@@ -1,0 +1,214 @@
+
+@media (max-width: 1200px) {
+	.hvrbox .hvrbox-text {
+		font-size: 1em;
+	}
+
+	img.hvrbox-img{
+		width: 18%;
+	}
+
+	div.hvrbox-img{
+		padding-top: 22%;
+	}
+}
+
+
+/*Ipad Pro*/
+@media (max-width: 1024px) and (min-width: 769px) {
+	.banner {
+		margin-top: -9.3%;
+	}
+
+	.img-dash{
+		width: 10%;
+	}	
+
+	span.span-top{
+		font-size: 3.9vw;
+	}
+
+	span.span-middle{
+		font-size: 3vw;
+	}
+
+	span.span-bottom{
+		left:36%;
+		font-size: 1.125vw;
+	}
+
+	div.social_network{
+		left:43.5%;
+	}
+}
+
+
+@media (max-width: 991px) {
+	.icon-margin{
+		margin: 0px 0px;
+	}
+
+	.hvrbox .hvrbox-text {
+		font-size: 1.5em;
+	}
+
+	img.hvrbox-img{
+		width: 18%;
+	}
+
+	div.hvrbox-img{
+		padding-top: 30%;
+	}
+}
+
+/*Ipad*/
+@media (max-width: 768px) {
+	.navbar-collapse.collapse{
+		display: block !important;
+	}
+
+	.navbar-nav>li, .navbar-nav{
+		float: left !important;
+	}
+
+	.navbar-nav.navbar-right:last-child{
+		margin-right: -15px !important;
+	}
+
+	.navbar-right{
+		float: right !important;
+	}
+
+	.img-dash{
+		width: 9%;
+	}	
+
+	span.span-top{
+		font-size: 3.9vw;
+	}
+
+	span.span-middle{
+		font-size: 3vw;
+	}
+
+	span.span-bottom{
+		font-size: 0.8em;
+		left:36%;
+	}
+
+	span.text{
+		padding: 0px 0px;
+	}
+
+	.img-global{
+		width: 20%;
+	}
+
+	div.social_network{
+		top:92.5%;
+		left:42.5%;
+	}
+
+	.hvrbox .hvrbox-text {
+		font-size: 5vw;
+	}
+}
+
+@media (max-width: 768px) and (min-width: 653px) {
+	.banner {
+		margin-top: -11.8%;
+	}
+
+	img.hvrbox-img{
+		width: 18%;
+	}
+
+	div.hvrbox-img{
+		padding-top: 52%;
+	}
+}
+
+@media (max-width: 652px) {
+	span.span-bottom{
+		left:32%;
+	}
+
+	.img-global{
+		width: 16%;
+	}
+}
+
+/*Pixel 2*/
+@media (max-width: 652px) and (min-width: 512px) {
+	.span-nav {
+		display: none;
+	}
+
+	.banner {
+		margin-top: -15.1%;
+	}
+}
+
+/*Ip 5/SE*/
+@media (max-width: 511px) {
+	.logo {
+		display: none;
+	}
+
+	.banner {
+		margin-top: -20.8%;
+	}
+
+	span.span-bottom{
+		left:28%;
+	}
+
+	div.social_network{
+		top:88.5%;
+		left:40.5%;
+	}
+}
+
+/*Ip 6/7/8/plus*/
+@media (max-width: 415px) {
+	.navbar-inverse .navbar-nav>li{
+		margin-left: -20px;
+	}
+
+	span.span-bottom{
+		font-size: 2.5vw;
+		left:28%;
+	}
+
+	div.social_network{
+		top:84.5%;
+		left:40.5%;
+	}
+
+	.img-global{
+		width: 14%;
+	}
+
+	div.hvrbox-img{
+		padding-top: 39%;
+	}
+}
+
+@media (max-width: 309px) {
+	.navbar-inverse .navbar-nav>li{
+		margin-left: -25px;
+	}
+
+	div.social_network{
+		left:36.5%;
+	}
+
+	.img-global{
+		width: 8%;
+	}
+
+	span.span-bottom{
+		left:25%;
+	}
+
+}
